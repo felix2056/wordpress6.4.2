@@ -1,6 +1,6 @@
-=== Softlite.io Integration ===
-Contributors: Softlite.io Team, Louis Hufer
-Tags: softlite, softlite.io, clonewebx, litemove, elementor
+=== Payyme.com Integration ===
+Contributors: payyme.com Team, Louis Hufer
+Tags: payyme, payyme.com, elementor
 Requires at least: 4.7
 Tested up to: 6.1
 Requires PHP: 5.4
@@ -8,13 +8,11 @@ Stable tag: 1.0.1
 License: GPLv3
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
 
-This plugin is used to integrate Softlite.io tools (ClonewebX, Litemove) into your website.
+This plugin is used to integrate Payyme.com tools (ClonewebX, Litemove) into your website.
 
 == Description ==
-[Softlite.io](https://softlite.io/?wpam_id=1)
-This plugin is used to integrate Softlite.io tools into your website.
-[ClonewebX](https://softlite.io/clonewebx/?wpam_id=1) Clone any website to your Page Builder with a Single Click
-[Litemove](https://softlite.io/litemove/?wpam_id=1) Animation visual editor for all website platforms
+[Payyme.com](https://payyme.com/?wpam_id=1)
+This plugin is used to integrate Payyme.com tools into your website.
 
 == Installation ==
 = Minimum Requirements =
@@ -34,4 +32,4 @@ This plugin is used to integrate Softlite.io tools into your website.
 
 == Changelog ==
 = 1.0.1 =
-* This is a first version of Softlite.io Integration plugin.
+* This is a first version of Payyme.com Integration plugin.

@@ -38,7 +38,7 @@ class Softlite_Custom_Css extends \Elementor\Widget_Base {
         $element->start_controls_section(
             '_custom_css_section',
             [
-                'label' => esc_html__('Custom CSS by Softlite.io', 'softlite'),
+                'label' => esc_html__('Custom CSS by Payyme.com', 'softlite'),
                 'tab' => \Elementor\Controls_Manager::TAB_ADVANCED,
             ]
         );

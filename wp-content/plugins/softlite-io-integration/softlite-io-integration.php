@@ -1,11 +1,11 @@
 <?php
 /**
- * Plugin Name: SoftLite.io Integration
- * Description: This plugin is used to integrate Softlite.io tools into your website
- * Plugin URI:  https://softlite.io/clonewebx/
+ * Plugin Name: PayyMe.com Integration
+ * Description: This plugin is used to integrate Payyme.com tools into your website
+ * Plugin URI:  https://payyme.com/clonetools
  * Version:     1.0.3
- * Author:      SoftLite.io
- * Author URI:  https://softlite.io/
+ * Author:      PayyMe.com
+ * Author URI:  https://payyme.com/
  * Text Domain: softlite
  * Domain Path: /languages
  * Elementor tested up to: 3.13.4
@@ -100,7 +100,7 @@ final class Softlite {
 		$elements_manager->add_category(
 			'softlite',
 			[
-				'title' => __( 'Softlite.io Itegration', 'softlite' ),
+				'title' => __( 'Payyme.com Itegration', 'softlite' ),
 				'icon' => 'fa fa-plug',
 			]
 		);

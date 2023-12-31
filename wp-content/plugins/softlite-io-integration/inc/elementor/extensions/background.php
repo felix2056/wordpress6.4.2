@@ -20,7 +20,7 @@ class Softlite_Background_Image extends \Elementor\Widget_Base {
         $element->add_control(
 			'softlite_background_image_enable',
 			[
-				'label' => __( 'Softlite.io Background Image', 'pafe' ),
+				'label' => __( 'Payyme.com Background Image', 'pafe' ),
 				'type' => \Elementor\Controls_Manager::SWITCHER,
 				'default' => '',
 				'label_on' => 'Yes',

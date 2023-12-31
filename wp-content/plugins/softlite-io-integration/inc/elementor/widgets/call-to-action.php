@@ -10,7 +10,7 @@ class Softlite_Call_To_Action extends \Elementor\Widget_Base {
 	}
 
 	public function get_title() {
-		return esc_html__( 'Softlite.io Call to Action', 'elementor-pro' );
+		return esc_html__( 'Payyme.com Call to Action', 'elementor-pro' );
 	}
 
 	public function get_icon() {

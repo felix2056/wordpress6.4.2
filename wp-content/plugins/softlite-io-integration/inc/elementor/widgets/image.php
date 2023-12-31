@@ -31,7 +31,7 @@ class Softlite_Image extends \Elementor\Widget_Base {
 	 * @return string Widget title.
 	 */
 	public function get_title() {
-		return esc_html__( 'Image by Softlite.io', 'elementor' );
+		return esc_html__( 'Image by Payyme.com', 'elementor' );
 	}
 
 	/**
